@@ -6,3 +6,4 @@ const printProfileData = (profileDataArr) => {
 };
 
 printProfileData(profileDataArgs);
+
